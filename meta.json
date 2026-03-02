@@ -1,20 +1,23 @@
 {
   "sourceBrand": "Tabs",
   "sourceUrl": "https://tabs.co/products/sex-chocolate",
-  "angle": "pleasure-gap",
+  "angle": "tabs-tiered-pdp-pricing",
   "score": 12,
-  "generatedAt": "2026-03-02T08:44:00+08:00",
+  "generatedAt": "2026-03-02T11:33:00+08:00",
   "product": "lem",
-  "templateVersion": "advertorial-base-v1",
-  "wordCount": 3200,
   "sectionCount": 18,
-  "ctaCount": 7,
-  "status": "draft",
-  "tabsAdaptations": [
-    "Tiered quantity pricing (1/2/3 units with escalating discounts)",
-    "Material/engineering origin story cards (adapted from ingredient origin storytelling)",
-    "UGC viral cards with view counts (adapted from TikTok embed pattern)",
-    "Benefit pills above the fold (adapted from Tabs benefit tags)",
-    "Full product comparison table (Lem vs Satisfyer vs Womanizer)"
-  ]
+  "ctaCount": 6,
+  "wordCount": 2850,
+  "architectureNotes": "Tabs' unique tiered PDP pricing adapted as value anchoring ($89 vs $159 + competitor comparison). Ingredient origin story cards transformed into engineering origin cards (medical-grade silicone, air-pulse engine, acoustics, USB-C). Real TikTok embeds with view counts became UGC poster cards with 29next CDN images. Press bar positioned immediately after hero (Section 2) to mirror Tabs' authority-first narrative arc. Social proof (reviews) comes AFTER value demonstration, not before, matching Tabs' confirmation-after-desire flow.",
+  "adaptedPatterns": [
+    "Press bar immediately after hero (Tabs' authority transfer → Nancy's media validation)",
+    "Engineering origin cards (Tabs' ingredient provenance → Nancy's material/tech deep dive)",
+    "Value anchoring (Tabs' tiered pricing → Nancy's $89 vs $159 + competitor comparison)",
+    "UGC poster cards with view counts (Tabs' TikTok embeds → Nancy's video review cards)",
+    "Reviews as confirmation AFTER price justification (not upfront)",
+    "Benefit pills AFTER press bar (delayed gratification, authority first)",
+    "Multiple CTAs after every major proof section (6 total)",
+    "Comments section with skeptic-converted + question/reply + enthusiast + partner perspectives"
+  ],
+  "status": "v2-rebuild"
 }
